@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="StatusBox">
+    <output-path>$PROJECT_DIR$/out/artifacts/StatusBox</output-path>
+    <root id="archive" name="StatusBox.jar">
+      <element id="module-output" name="StatusBox" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/depend/MossLib.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

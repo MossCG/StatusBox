@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Implementation-Title: StatusBox
+Implementation-Version: 1.0
+Implementation-Vendor: MossCG
+Main-Class: org.mossmc.mosscg.StatusBox.Main
